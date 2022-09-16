@@ -64,7 +64,7 @@ function renderChart(dataPointsRes) {
       data: data
   };
 
-  var chart = new CanvasJS.Chart("chartContainer", options);
+  var chart = new CanvasJS.Chart("chartContaine1", options);
   chart.render();
 }
 
